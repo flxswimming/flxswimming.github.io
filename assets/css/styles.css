@@ -709,10 +709,6 @@ video {
   flex-grow: 1;
 }
 
-.list-disc {
-  list-style-type: disc;
-}
-
 .flex-col {
   flex-direction: column;
 }
